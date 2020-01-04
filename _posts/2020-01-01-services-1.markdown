@@ -1,0 +1,12 @@
+---
+layout: default
+img: passport.jpg
+category: Services
+title: What You Need Bring With You
+description:
+---
+The individual signing the document must appear in person and present a valid picture ID such as: 
+* Government ID
+* Driver's License
+* Passport 
+* Military ID
